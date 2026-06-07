@@ -33,4 +33,4 @@ My work focuses on:
 - **Blog:** [weicho-wang](https://weicho-wang.github.io/)
 - **Twitter/X:** [weicho-wang](https://x.com/WeiChoWang)
 - **ZhiHu** [微琢WeiCho](https://www.zhihu.com/people/weicho.wang)
-- **微信公众号** ![断层成像与物理算法探微](../assets/img/commons/微信公众号.png)
+- **微信公众号** ![断层成像与物理算法探微](../assets/img/commons/WeChatChannel.png)
